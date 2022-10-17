@@ -9,6 +9,6 @@ Linkedin Accountları
 
 Əliyev Anar - https://www.linkedin.com/in/anar-%C9%99liyev-1ab4a3252
 
-Qadaşov Əhliman - https://www.linkedin.com/in/mr-gadashow-a52686243
+Qadaşov Əhliman - https://www.linkedin.com/in/ahliman-gadashov-a52686243/
 
 Hüseynli İsmayıl - https://www.linkedin.com/in/ismay%C4%B1l-h%C3%BCseynli-84b4a2252
